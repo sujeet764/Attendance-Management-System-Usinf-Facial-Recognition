@@ -1,1 +1,1 @@
-# Attendance-Management-System-Usinf-Facial-Recognition
+# Attendance-Management-System-Using-Facial-Recognition
